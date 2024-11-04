@@ -12,7 +12,7 @@ require (
 	github.com/felixge/httpsnoop v1.0.1 // indirect
 	github.com/go-ole/go-ole v1.2.6
 	github.com/go-sql-driver/mysql v1.6.0
-	github.com/golang-jwt/jwt/v4 v4.4.1
+	github.com/golang-jwt/jwt/v4 v4.5.1
 	github.com/golang-migrate/migrate/v4 v4.7.0
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/handlers v1.5.1
@@ -55,12 +55,12 @@ require (
 	github.com/tklauser/numcpus v0.6.0 // indirect
 	github.com/wwt/guac v1.3.1
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/crypto v0.1.0
-	golang.org/x/net v0.7.0
+	golang.org/x/crypto v0.17.0
+	golang.org/x/net v0.10.0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.5.0
-	golang.org/x/term v0.5.0
-	golang.org/x/text v0.7.0
+	golang.org/x/sys v0.15.0
+	golang.org/x/term v0.15.0
+	golang.org/x/text v0.14.0
 	gopkg.in/h2non/gock.v1 v1.1.2
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
@@ -76,7 +76,6 @@ require (
 	github.com/pkg/sftp v1.13.4
 	github.com/shirou/gopsutil/v3 v3.22.12
 	github.com/trustelem/zxcvbn v1.0.1
-	golang.org/x/exp v0.0.0-20230321023759-10a507213a29
 )
 
 require (
